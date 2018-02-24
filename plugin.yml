@@ -1,0 +1,3 @@
+name: WorldRestore
+main: me.zackpollard.worldrestore.WorldRestore
+version: "1.0"
